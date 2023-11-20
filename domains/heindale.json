@@ -1,12 +1,10 @@
 {
-    "repo": "https://github.com/heindale/heindale.github.io",
     "owner": {
         "username": "Heindale",
         "email": "",
         "discord": "heindale"
     },
     "record": {
-        "CNAME": "heindale.github.io",
         "A": ["217.174.245.249"],
         "AAAA": ["2a00:da00:1800:83a4::1"],
         "MX": ["hosts.is-a.dev"],
